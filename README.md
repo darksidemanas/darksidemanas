@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Mahendra</h1>
 <h3 align="center">a dedicated coder from India who is also a licenced ethical hacker. I enjoy designing IoT and electronics projects with the Arduino and Raspberry Pi and collaborating on a variety of projects to produce technical magic.</h3>
-<img aling="left" alt="code" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+<img aling="right" alt="code" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darksidemanas&label=Profile%20views&color=0e75b6&style=flat" alt="darksidemanas" /> </p>
 
