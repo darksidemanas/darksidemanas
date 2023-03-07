@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, websites , linux**
 
-- 📫 How to reach me **kumarmanas8084@gmial.com**
+- 📫 How to reach me **kumarmanas8084@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
